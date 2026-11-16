@@ -22,6 +22,6 @@ The veil guarded the way; Christ’s body is the veil torn so that the way stand
 Lord Jesus, by Your blood we enter. Keep us near.
 
 # Published
-1. GitHub:
+1. GitHub: https://github.com/KJC-DNN/Album119_A_New_and_Living_Way/releases/tag/119.0.0
 2. Archive: album-118-according-to-the-pattern-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24272961
