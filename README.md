@@ -13,6 +13,7 @@ The veil, the Ark, the mercy seat, the Day of Atonement, and the access opened b
 7. Confidence to Enter (Promising Song)
 8. The True Mercy Seat (Praise – Romans 3:25)
 9. Draw Near with a True Heart (Praising)
+* (these are songs drawn from Scripture’s own sanctuary and creation accounts)
     
 # Study note: 
 The veil guarded the way; Christ’s body is the veil torn so that the way stands open.
