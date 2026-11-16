@@ -14,9 +14,11 @@ The veil, the Ark, the mercy seat, the Day of Atonement, and the access opened b
 8. The True Mercy Seat (Praise – Romans 3:25)
 9. Draw Near with a True Heart (Praising)
     
-# Study note: The veil guarded the way; Christ’s body is the veil torn so that the way stands open.
+# Study note: 
+The veil guarded the way; Christ’s body is the veil torn so that the way stands open.
 
-# Prayer note: Lord Jesus, by Your blood we enter. Keep us near.
+# Prayer note: 
+Lord Jesus, by Your blood we enter. Keep us near.
 
 # Published
 1. GitHub:
