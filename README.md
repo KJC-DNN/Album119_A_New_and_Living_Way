@@ -25,3 +25,9 @@ Lord Jesus, by Your blood we enter. Keep us near.
 1. GitHub: https://github.com/KJC-DNN/Album119_A_New_and_Living_Way/releases/tag/119.0.0
 2. Archive: album-118-according-to-the-pattern-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24272961
+
+# Instrumental
+## Published
+1. GitHub: https://github.com/KJC-DNN/Albums118-120_Instrumentals_According_to_the_Pattern/releases/tag/118-120.0.0
+2. Archive: albums-118-120-instrumentals-according-to-the-pattern-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24297126
